@@ -1,0 +1,2 @@
+# SuperSpiralGenerator
+Fixed WorldEdit CraftScript
