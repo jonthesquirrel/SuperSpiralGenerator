@@ -1,4 +1,7 @@
-Super Spiral Generator Scripts - Created by inHaze
+Super Spiral Generator Scripts - Created by inHaze 
+
+NOTE: Updated and fixed by jonthesquirrel: https://github.com/jonthesquirrel/SuperSpiralGenerator
+Original: https://www.planetminecraft.com/mod/custom-spiral-generator-worldedit-script/
 
 This is a set of special WorldEdit craftscripts I put together that will allow you to quickly create in game custom spirals and 3d patterns of any size, shape, or material you like.
 
