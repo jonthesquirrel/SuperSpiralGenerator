@@ -1,4 +1,4 @@
-Super Spiral Generator Scripts - Created by inHaze 
+Super Spiral Generator Scripts - Created by inHaze
 
 NOTE: Updated and fixed by jonthesquirrel: https://github.com/jonthesquirrel/SuperSpiralGenerator
 Original: https://www.planetminecraft.com/mod/custom-spiral-generator-worldedit-script/
@@ -67,13 +67,10 @@ Singleplayer
 6) Go to the line that reads "scripting-timeout=" and change the value to 30000.
 7) Save the file and close all folders, open Minecraft and test it out with the command "/cs spiral".
 
-Multiplayer - Untested                      *You must own/have access to server files to install scripts.
+Multiplayer                      *You must own/have access to server files to install scripts.
 
 1) Install WorldEdit plugin on the server.
-2) Not 100% sure about the rest... these scripts haven't been tested on a server, but they should work.
-3) Again, unsure, but I would try copying the craftscripts folder to the main server directory or worldedit folder.
-4) If any server owner can confirm/deny this or give me proper instructions it would be appreciated.
-
+2) Put the contents of the craftscripts directory in plugins/WorldEdit/craftscripts on the server.
 
 
 Errors/Troubleshooting
